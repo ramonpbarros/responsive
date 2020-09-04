@@ -1,6 +1,6 @@
 # Responsive
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ramonpbarros/readme-generator)
-> Respnsive landing page
+> Responsive landing page
 
 ## Table of contents
 * [Technologies](#technologies)
