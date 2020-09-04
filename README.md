@@ -23,7 +23,7 @@ List of features:
 
 ## Status
 Project is: _finished_
-* Make sure to check the web page [here](https://ramonpbarros.github.io/responsive/).
+* Make sure to check the web page [here](https://ramonpbarros.github.io/responsive/index.html).
 
 
 ## Contact
