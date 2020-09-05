@@ -172,6 +172,7 @@ height: 400px;
   }
   .card-img {
     height: 350px;
+    width: 100%;
   }
   .card-custom {
     margin-top: 5%;
@@ -182,5 +183,14 @@ height: 400px;
     width: 85%;
     float: none;
     margin: 1em;
+  }
+  .bullet-point {
+    background-color: lightgrey;
+    border-radius: 20px;
+    height: 2em;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline;
   }
 }
